@@ -24,6 +24,10 @@ nav .brand-logo {font-family: 'Merienda', cursive;
   color: #ef3550;
 }
 
+.text_header {
+  font-size: 15px;
+}
+
 p {
   line-height: 2rem;
 }
